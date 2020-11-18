@@ -123,12 +123,12 @@ https://github.com/Solrys/stock-analysis/blob/main/VBA_Challenge.xlsm
 
 
 
+
 Once I established a refactored code, I ran the original code for 2017 and 2018, and compared the Original Run Times with the Refactored Run Times.
 #### Refactored Run Times:
 ![refactored 2017](https://github.com/Solrys/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ![Refactored 2018](https://github.com/Solrys/stock-analysis/blob/main/Resources/Resources/VBA_Challenge_2018.png)
-
 After comparing both sets of runtimes it was determined the the new Refactored code was more efficient and ran through all 12 stock tickers at about .5 seconds faster!
 
 ## Summary
