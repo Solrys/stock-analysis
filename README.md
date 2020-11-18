@@ -118,12 +118,11 @@ In order to provide Steve with his requested criteria, I needed to change the co
         
     Next i
     
-    
-#### For The Full VBA Code see the following link to the file VBA_Challenge.vbs
+For The Full VBA Code see the following link to the file VBA_Challenge.vbs
 https://github.com/Solrys/stock-analysis/blob/main/VBA_Challenge.xlsm
 
-Once I established a refactored code, I ran the original code for 2017 and 2018, and compared the Run Times with the refactored code.
 
+Once I established a refactored code, I ran the original code for 2017 and 2018, and compared the Run Times with the refactored code.
 #### Refactored Run Times:
 
 ![refactored 2017](https://github.com/Solrys/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
