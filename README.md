@@ -120,5 +120,12 @@ In order to provide Steve with his requested criteria, I needed to change the co
     
     
 ### For The Full VBA Code see file VBA_Challenge.vbs
+https://github.com/Solrys/stock-analysis/blob/main/VBA_Challenge.xlsm
 
+Once I established a refactored code, I ran the original code for 2017 and 2018, and compared the Run Times with the refactored code.
 
+#### Refactored Run Times:
+
+![refactored 2018](relative/path/to/img.jpg?raw=true "Title")
+
+![Refactored 2017](relative/path/to/img.jpg?raw=true "Title")
