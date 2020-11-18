@@ -1,4 +1,4 @@
-# Green Stock Analysis
+# Stock Analysis
 ## Project Overview
 
 A friend of mine named Steve asked me to analyze a set of stocks with an excel worksheet. Steve wanted to be able to visualize the performance of these set of stocks so that he could inform his parents on good choices for investment within the group. Initially I created a workbook to provide Steve with the data he requested so that at a touch of a button he could visualize and compare stocks based on their volume and return. 
@@ -119,7 +119,7 @@ In order to provide Steve with his requested criteria, I needed to change the co
     Next i
     
     
-### For The Full VBA Code see file VBA_Challenge.vbs
+#### For The Full VBA Code see the following link to the file VBA_Challenge.vbs
 https://github.com/Solrys/stock-analysis/blob/main/VBA_Challenge.xlsm
 
 Once I established a refactored code, I ran the original code for 2017 and 2018, and compared the Run Times with the refactored code.
