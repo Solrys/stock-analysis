@@ -128,4 +128,4 @@ Once I established a refactored code, I ran the original code for 2017 and 2018,
 
 ![refactored 2017](https://github.com/Solrys/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-![Refactored 2018](relative/path/to/img.jpg?raw=true "Title")
+![Refactored 2018](https://github.com/Solrys/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
