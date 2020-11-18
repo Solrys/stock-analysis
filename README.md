@@ -2,7 +2,7 @@
 ## Project Overview
 
 A friend of mine named Steve asked me to analyze a set of stocks with an excel worksheet. Steve wanted to be able to visualize the performance of these set of stocks so that he could inform his parents on good choices for investment within the group. Initially I created a workbook to provide Steve with the data he requested so that at a touch of a button he could visualize and compare stocks based on their volume and return. 
-Steve liked the workbook I prepared for him. Now Steve wants to be able to use this workbook for an expanded dataset to include the entire stock market over the last few years. Because Steve will be comparing a much larger amount of stocks, refactoring the VBA code becomes necessary. Refactoring the code will make the code more efficient—by taking fewer steps, using less memory, and in this case hopefully create shorter Run Times for Steve.
+Steve liked the workbook I prepared for him. Now Steve wants to be able to use this workbook for an expanded dataset to include the entire stock market over the last few years. Because Steve will be comparing a much larger amount of stocks, refactoring the VBA code becomes necessary. Refactoring the code will make the code more efficient by taking fewer steps, using less memory, and in this case hopefully creating shorter Run Times for Steve.
 
 
 ## Results
