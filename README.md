@@ -134,7 +134,7 @@ After comparing Original code runtimes with the new Refactored code runtimes it 
 
 ## Summary
 
-The Advantage of creating a refactored code is creating a more efficient code, taking fewer steps, making the code more direct, and potentially saving time with for loops to allow for larger datasets. The possible disadvantages of refactoring code is that there lies a possibilty of creating a mistake in the code while trying to refactor. Omitting a variable or a step may render the code innacurate. 
+The Advantage of a refactored code is creating a more efficient code, taking fewer steps, making the code more direct, and potentially saving time with "for loops" to allow for larger datasets. The possible disadvantages of refactoring code is that there lies a possibilty of creating a mistake in the code while trying to refactor. Omitting a variable or a step may render the data innacurate. 
 
 ### Advantages and Disadvantages of Original VBA Script
 In this specific case the advantage of the Original VBA script was that the code was easier to arrive at. having a nested loop witha second variable kept the two variables easy to distinguish when writing the code. (i,j) The disadvantage of the Original code is that it took more time to run, and with a significantly larger dataset the delays may be more substantial. 
