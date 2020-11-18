@@ -129,10 +129,13 @@ Once I established a refactored code, I ran the original code for 2017 and 2018,
 ![refactored 2017](https://github.com/Solrys/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ![Refactored 2018](https://github.com/Solrys/stock-analysis/blob/main/Resources/Resources/VBA_Challenge_2018.png)
+
 After comparing both sets of runtimes it was determined the the new Refactored code was more efficient and ran through all 12 stock tickers at about .5 seconds faster!
+
 
 ## Summary
 
+### Overall Sumation
 The Advantage of a refactored code is creating a more efficient code, taking fewer steps, making the code more direct, and potentially saving time with "for loops" to allow for larger datasets. The possible disadvantages of refactoring code is that there lies a possibilty of creating a mistake in the code while trying to refactor. Omitting a variable or a step may render the data innacurate. 
 
 ### Advantages and Disadvantages of Original VBA Script
