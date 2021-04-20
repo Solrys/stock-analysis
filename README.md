@@ -1,13 +1,13 @@
-# Stock Analysis
+# Stock Analysis with VBA
 ## Project Overview
 
-A friend of mine named Steve asked me to analyze a set of stocks with an excel worksheet. Steve wanted to be able to visualize the performance of these set of stocks so that he could inform his parents on good choices for investment within the group. Initially I created a workbook to provide Steve with the data he requested so that at a touch of a button he could visualize and compare stocks based on their volume and return. 
-Steve liked the workbook I prepared for him. Now Steve wants to be able to use this workbook for an expanded dataset to include the entire stock market over the last few years. Because Steve will be comparing a much larger amount of stocks, refactoring the VBA code becomes necessary. Refactoring the code will make the code more efficient by taking fewer steps, using less memory, and in this case hopefully creating shorter Run Times for Steve.
+Initial analisis of stocks was done with an excel worksheet. I wanted to be able to visualize the performance of these set of stocks so that I could inform potential clients for best investment choices within the group. Initially I created a workbook to accompany the data, so that at a touch of a button he could visualize and compare stocks based on their volume and return. 
+Once that eas accomplished, I wanted to be able to use this workbook for an expanded dataset to include the entire stock market over the last few years. Because I will be using this format to compare a much larger dataset, refactoring the VBA code becomes necessary. Refactoring the code will make the code more efficient by taking fewer steps, using less memory, and in this case hopefully creating shorter Run Times.
 
 
 ## Results
 
-In order to provide Steve with his requested criteria, I needed to change the code and refactor it, making it more efficient. I did this by changing the nesting order and removing an additional variable (j). In this new workbook I introduce the tickerIndex and set it to zero. I then created a 4 different arrays; tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices. The “tickers” array was used to establish the ticker symbol of a stock. These three arrays corresponded with the tickers array by using the initial tickerIndex variable I set up. Being able to assign the tickerVolumes, tickerStartingPrices, and tickerEndingPrices to each ticker symbol before running the loops through the data set allowed for faster run times. 
+In order to meet this criteria, I needed to change the code and refactor it, making it more efficient. I did this by changing the nesting order and removing an additional variable (j). In this new workbook I introduce the tickerIndex and set it to zero. I then created a 4 different arrays; tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices. The “tickers” array was used to establish the ticker symbol of a stock. These three arrays corresponded with the tickers array by using the initial tickerIndex variable I set up. Being able to assign the tickerVolumes, tickerStartingPrices, and tickerEndingPrices to each ticker symbol before running the loops through the data set allowed for faster run times. 
 
 ### A Closer Look At The Diferentiation in VBA code
 
